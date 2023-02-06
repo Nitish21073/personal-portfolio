@@ -1,24 +1,24 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/port-1.jpg'
-import IMG2 from '../../assets/port-2.webp'
+import IMG1 from '../../assets/crypto-tracker.png'
+import IMG2 from '../../assets/cred.png'
 import IMG3 from '../../assets/port-3.webp'
 import IMG4 from '../../assets/port-4.webp'
 const data = [
   {
     id:1,
     image:IMG1,
-    title:'dummy image',
-    github:'https://github.com',
-    demo:'https://github.com'
+    title:'Responsive Crypto Tracker website in React js',
+    github:'https://github.com/Nitish21073/crypto-tracker',
+    demo:'https://crypto-tracker-72gw.onrender.com/'
 
 },
   {
     id:2,
     image:IMG2,
-    title:'dummy image',
-    github:'https://github.com',
-    demo:'https://github.com'
+    title:'Responsive Cred clone Website in React js',
+    github:'https://github.com/Nitish21073/cred-clone',
+    demo:'https://cred-clone-4z3f.onrender.com/'
 
 },
   {
