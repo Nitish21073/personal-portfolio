@@ -2,8 +2,8 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/crypto-tracker.png'
 import IMG2 from '../../assets/cred.png'
-import IMG3 from '../../assets/port-3.webp'
-import IMG4 from '../../assets/port-4.webp'
+import IMG3 from '../../assets/s.png'
+
 const data = [
   {
     id:1,
@@ -24,19 +24,12 @@ const data = [
   {
     id:3,
     image:IMG3,
-    title:'dummy image',
-    github:'https://github.com',
-    demo:'https://github.com'
+    title:'Ecomm Website in ReactJs',
+    github:'https://github.com/Nitish21073/Ecomm-Website',
+    demo:'https://shopsy-aj7b.onrender.com/'
 
 },
-  {
-    id:4,
-    image:IMG4,
-    title:'dummy image',
-    github:'https://github.com',
-    demo:'https://github.com'
-
-},
+ 
 ]
 
 const Portfolio = () => {

@@ -17,14 +17,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <h5>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Reprehenderit quae magni minima expedita, illo pariatur! Ea
-                aliquid, officiis deleniti dolorum culpa molestiae veritatis ex
-                vitae. Est, cupiditate reprehenderit? Numquam earum aperiam
-                perferendis! Itaque sapiente rem tempore in officia, incidunt
-                quas accusantium dolorem libero corporis ipsum exercitationem
-                amet quisquam possimus repellat voluptates tenetur, pariatur
-                eius.
+               A Frontend Developer with entry level experience specializing in Web Development,ReactJs.Adept at identifying opportunities to improve the user experience.
               </h5>
             </article>
             <a href="#contact" className="btn btn-primary">
